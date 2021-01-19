@@ -3,6 +3,10 @@ body {
     margin: auto;
 }
 
+.container {
+    margin-left: 2em;
+    margin-right: 2em;
+}
 .headline {
     text-align: center;
 }
